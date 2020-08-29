@@ -9,6 +9,7 @@
           Monday-Saturday: 11.30am - 1.30am | 4.30pm - 9pm <br />
           Sunday: 11.30am - 1.30am | 4.30pm - 8.30pm
         </p>
+        <p>© 2020 Awapuni Takeaways</p>
         <br />
       </div>
     </div>
